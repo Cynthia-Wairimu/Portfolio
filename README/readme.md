@@ -7,13 +7,12 @@
 * Create a portfolio directory/ folder then initialize git in the terminal
 * In the new directory create an index.html file.
 * Create a CSS folder in the portfolio directory then create a styles.css file in the same folder.
-* 
-* 
-* 
-* 
-* 
-* 
-* Commit changes at every step.
+* Create a images folder. drang and drop image in the folder.
+* link CSS to HTML file
+* link Bootstrap to HTML file
+* Add a README.md file
+* Add a LICENSE file (MIT)
+* * Commit changes at every step.
 
 ## Support and contact details
 {if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. }
