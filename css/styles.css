@@ -1,0 +1,10 @@
+img{
+    width: 300px;
+    border-radius: 30px;
+    float: left;
+    margin-right: 10px;
+}
+
+p{
+    font-weight: bold;
+}
