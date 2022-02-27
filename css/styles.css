@@ -1,15 +1,18 @@
-img{
-    width: 150px;
-    border-radius: 10px;
-    margin-right: 15px;
-    float: left;
+img {
+  width: 160px;
+  border-radius: 10px;
+  margin-right: 15px;
+  float: left;
 }
 .favorite {
-    color: red;
-
+  color: red;
 }
 
-h{
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+.h {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
 }
+
+.test-box {
+    border: 2px solid red;
+  }
