@@ -3,7 +3,10 @@ img{
     border-radius: 30px;
     margin-right: 10px;
 }
+.favorite {
+    color: brown;
 
+}
 .website {
     color:darkorange;
   }
