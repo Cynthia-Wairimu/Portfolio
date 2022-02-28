@@ -3,7 +3,7 @@
 #### By **{Cynthia Wairimu}**
 ## Description
 {This is my portfolio, it includes my name, an image of me, a list of projects I have worked on since I joined Moringa school, and an "About Me" section.}
-## Setup/Installation RequirementsThis is my portfolio, it includes my name, an image of me, a list of projects I have worked since I joined Moringa school, and an "About Me" section.
+## Setup/Installation Requirements
 * Create a portfolio directory/ folder then initialize git in the terminal
 * In the new directory create an index.html file.
 * Create a CSS folder in the portfolio directory then create a styles.css file in the same folder.
@@ -12,13 +12,13 @@
 * link Bootstrap to HTML file
 * Add a README.md file
 * Add a LICENSE file (MIT)
-* * Commit changes at every step.
+* Commit changes at every step.
 
 ## Support and contact details
 {if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. }
 
 ## Link to GitHub pages
-
+https://cynthia-wairimu.github.io/Portfolio/
 
 ### License
 *{MIT licensing.}*
