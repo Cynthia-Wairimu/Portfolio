@@ -19,7 +19,7 @@ This is my portfolio, it includes my name, an image of me, a list of projects I 
 {if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. }
 
 ## Link to GitHub pages
-
+https://cynthia-wairimu.github.io/Portfolio/
 
 ### License
 MIT licensing.
